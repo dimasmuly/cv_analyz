@@ -1,0 +1,14 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    admin:
+      email: admin@hrd.com
+      name: HRD
+      password: $2b$12$veUHDUOxMPpYTgIivZbUqufvgGlv3zX5uZ5np7dmGdmtOB0Z1e2q6
+
+preauthorized:
+  emails:
+  - melsby@gmail.com

@@ -4,3 +4,4 @@ streamlit
 flask_sqlalchemy
 torch
 nltk
+googletrans

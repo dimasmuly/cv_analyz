@@ -31,7 +31,7 @@ if st.button("Submit"):
         try:
             # Mengatur endpoint API dan header
             api_endpoint = 'https://nubela.co/proxycurl/api/v2/linkedin'
-            api_key = '-jZgYBFOjonR-tOd3fPcyA'
+            api_key = 'OMvoUxp7GBjSzo0pJPU8nA'
             headers = {'Authorization': 'Bearer ' + api_key}
 
             # Mengambil data profil LinkedIn menggunakan proxycurl

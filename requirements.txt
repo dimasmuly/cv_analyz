@@ -3,3 +3,4 @@ tensorflow
 streamlit
 flask_sqlalchemy
 torch
+nltk

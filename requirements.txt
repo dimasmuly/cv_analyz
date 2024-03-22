@@ -2,3 +2,4 @@ transformers
 tensorflow
 streamlit
 flask_sqlalchemy
+torch

@@ -1,9 +1,9 @@
 transformers
 tensorflow
 streamlit
-flask_sqlalchemy
 torch
 nltk
 googletrans
 streamlit-authenticator
-
+SQLAlchemy
+mysqlclient

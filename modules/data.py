@@ -5,7 +5,7 @@ import json
 
 class Data():
     def __init__(self):
-        self.__conn__ = st.connection('local', type='sql')
+        self.__conn__ = st.connection('mysql', type='sql')
 
     def get_applicants(self, role: str):
         data = self.__conn__.query("SELECT * from applicants WHERE primary_role = :role ORDER BY primary_role_score DESC;",

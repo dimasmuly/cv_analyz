@@ -5,4 +5,4 @@ flask_sqlalchemy
 torch
 nltk
 googletrans
-authenticator
+streamlit-authenticator

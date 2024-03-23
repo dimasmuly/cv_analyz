@@ -6,3 +6,4 @@ torch
 nltk
 googletrans
 streamlit-authenticator
+mysqlclient
